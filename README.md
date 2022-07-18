@@ -3,7 +3,7 @@
 
 1. Clone the repo
    ```sh
-   git clone 
+  git clone git@github.com:nitish04/testRepo.git
    ```
 2. Install NPM packages
    ```sh
@@ -35,5 +35,5 @@
 
 Name - Nitish Kumar
 
-Project Link: []()
+Project Link: [https://github.com/nitish04/testRepo](https://github.com/nitish04/testRepo)
 
