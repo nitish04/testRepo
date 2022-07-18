@@ -1,0 +1,5 @@
+1. TC_001 :Create Sale request and mark it as Confirmed
+2. TC_002: Create Sale request and mark it as Confirmed: and Delivery Status as 'Deliver Some'
+3. TC_003: Create new Sale request: and Production Status as 'Make in batch'
+4. TC_004: Create Sale request and mark it as Confirmed: and Delivery Status as 'Pack All'
+5. TC_005: Create Sale request and mark it as Confirmed: and Delivery Status as 'Packed' to deliverAll

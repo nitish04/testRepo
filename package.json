@@ -1,0 +1,17 @@
+{
+  "name": "cypress_katana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "npx cypress run --spec cypress/integration/*.ts"
+
+  },
+  "author": "nitish",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.7.0",
+    "cypress-xpath": "^2.0.0",
+    "typescript": "^4.7.4"
+  }
+}
