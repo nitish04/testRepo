@@ -2,13 +2,11 @@
   Pre-requisite:
 
 1. Clone the repo
-   ```sh
-  git clone git@github.com:nitish04/testRepo.git
-   ```
+  `git clone git@github.com:nitish04/testRepo.git`
+  
 2. Install NPM packages
-   ```sh
-   npm install
-   ```
+   `npm install`
+  
 3. credentials stored in   `config.ts`
 
 4. Test script Location: `/cypress/integration`
